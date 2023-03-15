@@ -4,12 +4,16 @@ An application that perform various kind image processing. The back end is writt
 
 # Libraries Used
 
-flask_ngrok
-cv2
-matplotlib
-numpy 
-werkzeug
-flask 
-urllib
-PIL
-os
+flask_ngrok,
+cv2,
+matplotlib,
+numpy, 
+werkzeug,
+flask ,
+urllib,
+PIL,
+os,
+
+
+# contributors 
+Esha Mishra, Shruti H. Agarwal, Radhika Sharma, Prableen Sandhu
